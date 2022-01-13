@@ -1,1 +1,1 @@
-# First python program
+# First JavaScript program
